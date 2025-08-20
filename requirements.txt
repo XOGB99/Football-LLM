@@ -1,0 +1,8 @@
+# Premier League Match Predictor Requirements
+# This program uses only Python standard library modules
+# No external dependencies required!
+
+# For future machine learning enhancements, consider:
+# scikit-learn>=1.3.0
+# pandas>=2.0.0
+# numpy>=1.24.0
